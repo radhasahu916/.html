@@ -1,0 +1,32 @@
+<html>
+<head> 
+<title>introduction</title> 
+</head>
+<body> 
+<h1> about me </h1>
+<p> i'am radha sahu <br> from chhatishgarh ive completed my schooling in sages bhwneshwarpur apart from studies , i really like plaing game </p>
+<p> my hoddy is dancing</p> 
+<h2>Qualification </h2> 
+<ol> 
+<li> completed class 12 in 2025 </li> 
+<ul> 
+<li> mark obtained 77% </li> 
+<li> cgbse </li> 
+<li> from sages bhwneshwarpur </li> 
+</ul> 
+<li> completed class 10 in 2023 </li>  
+<ul>
+<li> mark obtained 63.7% </li> 
+<li> cgbsce </li> 
+<li> from sages bhwneshwarpur </li> 
+</ul> 
+ 
+<li> currently pursuring bca computer science from ybn university </li> 
+</ol> 
+<h3> skills </h3>
+<ul> 
+<li> basic computer knowledge </li>
+<li> problem solving </li>
+</ul> 
+</body> 
+</html> 
